@@ -3,7 +3,7 @@
 </script>
 
 <main>
-	<h1>Hello du Penelsenbürger!</h1>
+	<h1>Hello ihr Penelsenbürger:innen!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 </main>
 
